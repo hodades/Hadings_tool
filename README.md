@@ -19,10 +19,12 @@ Yasmine Ferdjani
 * [Course 2: Variables](Courses/course2.ipynb)
   Explores the concept of variables, teaching how to declare, assign values to, and manipulate them. This lays the foundation for more complex operations.
 * [Course 3: Data Types](Courses/Course_3.ipynb)
+  Delves into various data types in Python, including strings, integers, floats, and lists. Understanding these types is crucial for effective data manipulation and versatile programming.
 * [Course 4: Further informations](Courses/course_4.ipynb)
+  Acts as a knowledge booster, covering advanced Python concepts, coding best practices, and pointing to additional resources for a deeper understanding.
 
 ## Exercises
-
+Additionally, there are practical exercises (Activity 1-4) accompanying each course, providing hands-on coding experience to reinforce theoretical knowledge. 
 * [Activity 1](Activity/activity_1.py)
 * [Activity 2](Activity/activity_2.py)
 * [Activity 3](Activity/Activity_3.ipynb)
