@@ -34,11 +34,11 @@ Yasmine Ferdjani
 
 Additionally, there are practical exercises (Activity 1-4) accompanying each course, providing hands-on coding experience to reinforce theoretical knowledge. 
 
-* [Activity 1](Activity/activity_1.py)
+* [Activity 1](Activity/Activity1.ipynb)
 
 In this notebook, you're tackling two activities. In the first, you work with variables, perform calculations for monthly and yearly savings, manipulate strings, and create a function for calculating height with a hat. The second activity focuses on currency conversion, where you define functions to convert between euros and dollars, conduct tests, and create a flexible function for switching between the two conversions based on a specified currency. These activities showcase a range of programming concepts, from basic arithmetic to function definition and conditional logic. 
 
-* [Activity 2](Activity/activity_2.py)
+* [Activity 2](Activity/Activity2.ipynb)
 
 Sure! In this notebook, the focus is on conditional statements and list manipulation. In the first activity, a function is_even() is defined to check if a given number is even. The second activity involves creating and manipulating a list of room areas in a house. Room names and areas are combined in the list, and operations such as accessing specific elements, calculating sums, and creating a function to retrieve room areas based on names are performed. The activities showcase practical applications of conditionals and list handling in a programming context. 
 
