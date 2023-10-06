@@ -15,12 +15,12 @@ Yasmine Ferdjani
 
 * [Course 1: Introduction to Python](Courses/course_1.py)
 * [Course 2: Variables](Courses/course2.ipynb)
-* [Course 3: Data Types](Courses/cours_python_28_09.py)
+* [Course 3: Data Types](Courses/course_3.ipynb)
 * [Course 4: Further informations](Courses/further_informations_course_23_09_29.py)
 
 ## Exercises
 
 * [Activity 1](Activity/activity_1.py)
 * [Activity 2](Activity/activity_2.py)
-* [Activity 3](Activity/Activitites_3.py)
+* [Activity 3](Activity/Activity_3.ipynb)
 * [Activity 4](Activity/commented_23_09_29.py)
