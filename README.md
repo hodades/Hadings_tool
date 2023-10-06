@@ -12,7 +12,7 @@ Hoda, Yasmine, Axel, Amir, Karl
 * [Course 1: Introduction to Python](courses/course-1.md)
 * [Course 2: Variables](courses/course-2.md)
 * [Course 3: Data Types](Hadings_tool_gamma/cours_gamma_python_fundamentals_23_09_28 (1).py)
-* [Course 4: Further informations](further_informations_course_23_09_29 (1).py)
+* [Course 4: Further informations](further_informations_course_23_09_29.py)
 
 ## Exercises
 
