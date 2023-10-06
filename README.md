@@ -2,6 +2,7 @@
 # Git Repository for the [Msc data for business] Training
 
 This repository contains our courses and exercises for the [Python] training.
+
 Course 1: Introduction to Python
 In this course, you'll get a bird's eye view of Python, one of the most versatile and widely used programming languages. You'll explore its history, its role in the programming world, and perhaps even write your first lines of Python code. Think of it as the welcoming handshake into the Python programming realm.
 
