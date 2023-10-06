@@ -19,4 +19,4 @@ Hoda, Yasmine, Axel, Amir, Karl
 * [Activity 1](exercises/exercise-1.md)
 * [Activity 2](exercises/exercise-2.md)
 * [Activity 3](exercises/exercise-3.md)
-* ...
+* [Activity 4](commented_23_09_29.ipynb)
