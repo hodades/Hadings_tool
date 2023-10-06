@@ -18,5 +18,5 @@ Hoda, Yasmine, Axel, Amir, Karl
 
 * [Activity 1](activity_1.py)
 * [Activity 2](activity_2.py)
-* [Activity 3](exercises/exercise-3.md)
+* [Activity 3](exercice_python_28_09.py)
 * [Activity 4](commented_23_09_29.py)
