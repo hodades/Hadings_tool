@@ -16,7 +16,7 @@ Yasmine Ferdjani
 * [Course 1: Introduction to Python](Courses/course_1.py)
 * [Course 2: Variables](Courses/course2.ipynb)
 * [Course 3: Data Types](Courses/Course_3.ipynb)
-* [Course 4: Further informations](Courses/further_informations_course_23_09_29.py)
+* [Course 4: Further informations](Courses/course_4.ipynb)
 
 ## Exercises
 
