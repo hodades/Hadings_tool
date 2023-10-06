@@ -9,14 +9,14 @@ Hoda, Yasmine, Axel, Amir, Karl
 
 ## Courses
 
-* [Course 1: Introduction to Python](course_1.py)
-* [Course 2: Variables](courses/course-2.md)
-* [Course 3: Data Types](cours_python_28_09.py)
-* [Course 4: Further informations](further_informations_course_23_09_29.py)
+* [Course 1: Introduction to Python](Courses/course_1.py)
+* [Course 2: Variables](Courses/courses/course-2.md)
+* [Course 3: Data Types](Courses/cours_python_28_09.py)
+* [Course 4: Further informations](Courses/further_informations_course_23_09_29.py)
 
 ## Exercises
 
-* [Activity 1](activity_1.py)
-* [Activity 2](activity_2.py)
-* [Activity 3](Activitites_3.py)
-* [Activity 4](commented_23_09_29.py)
+* [Activity 1](Activity/activity_1.py)
+* [Activity 2](Activity/activity_2.py)
+* [Activity 3](Activity/Activitites_3.py)
+* [Activity 4](Activity/commented_23_09_29.py)
