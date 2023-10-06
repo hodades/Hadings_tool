@@ -5,10 +5,10 @@ This repository contains our courses and exercises for the [Python] training.
 
 ## The Authors
 
-Hoda Dades
-Axel Gervais
-Karl Akpovi
-Amir Baroini
+Hoda Dades,
+Axel Gervais,
+Karl Akpovi,
+Amir Baroini,
 Yasmine Ferdjani
 
 ## Courses
