@@ -3,7 +3,7 @@
 
 This repository contains our courses and exercises for the [Python] training.
 
-## Authors
+## The Authors
 
 Hoda, Yasmine, Axel, Amir, Karl
 
