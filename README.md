@@ -1,5 +1,5 @@
 # Headings_tool_gamma
-# Git Repository for the Msc data for business Training
+# Git Repository for the Msc Data For Business Training
 
 This repository contains our courses and exercises for the [Python] training.
 
